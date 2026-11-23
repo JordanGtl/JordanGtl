@@ -1,12 +1,9 @@
 <div align="center">
 
-# 👋 Bonjour, je suis Jordan
+  ## 👋 Bonjour, je suis Jordan
 
 [![GitHub followers](https://img.shields.io/github/followers/JordanGtl?style=social)](https://github.com/JordanGtl)
-
 </div>
-
----
 
 ### 🚀 À propos de moi
 
