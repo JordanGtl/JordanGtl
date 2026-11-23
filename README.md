@@ -23,30 +23,6 @@ Je suis passionné par la création de logiciels utiles, élégants et accessibl
 
 ---
 
-## 🛠️ Compétences
-
-```text
-Développement logiciel
-Programmation
-Résolution de problèmes
-Travail collaboratif
-Apprentissage continu
-```
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JordanGtl&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanGtl&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-
-</div>
-
----
-
 ## 🌐 Me retrouver
 
 - 💼 LinkedIn : https://www.linkedin.com/in/jordan-guillot
