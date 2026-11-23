@@ -2,15 +2,13 @@
 
 # 👋 Bonjour, je suis Jordan
 
-**Développeur passionné · Créateur de solutions · Apprenant permanent**
-
 [![GitHub followers](https://img.shields.io/github/followers/JordanGtl?style=social)](https://github.com/JordanGtl)
 
 </div>
 
 ---
 
-## 🚀 À propos de moi
+### 🚀 À propos de moi
 
 Bienvenue sur mon profil GitHub !
 
@@ -23,16 +21,8 @@ Je suis passionné par la création de logiciels utiles, élégants et accessibl
 
 ---
 
-## 🌐 Me retrouver
+### 🌐 Me retrouver
 
 - 💼 LinkedIn : https://www.linkedin.com/in/jordan-guillot
 - 🌍 Portfolio : https://gtl-studio.com
 - 📧 Email : contact@gtl-studio.com
-
----
-
-<div align="center">
-
-⭐️ **Merci de votre visite !**
-
-</div>
